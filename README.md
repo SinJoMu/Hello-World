@@ -1,2 +1,3 @@
 # Hello-World
-My first repository on Github
+My first respository in Github
+I love to drink coffee and reading
